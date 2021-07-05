@@ -1,14 +1,16 @@
-# full-stack-dev-career-path
 # Software engineering (from 0 to 1)
 
 
+## Navigation
+
+- [Motivation](Motivation)
 
 ## Motivation
 
 ### [IT in Ukraine] Intro
 
-- [ ]  [EN] [https://www.youtube.com/watch?v=7WnwVAz-Zic](https://www.youtube.com/watch?v=7WnwVAz-Zic)
-- [ ]  [https://itc.ua/news/reyting-hackerrank-ukraina-zanyala-11-mesto-v-top-50-stran-s-luchshimi-programmistami/](https://itc.ua/news/reyting-hackerrank-ukraina-zanyala-11-mesto-v-top-50-stran-s-luchshimi-programmistami/)
+-  [EN] [https://www.youtube.com/watch?v=7WnwVAz-Zic](https://www.youtube.com/watch?v=7WnwVAz-Zic)
+-  [https://itc.ua/news/reyting-hackerrank-ukraina-zanyala-11-mesto-v-top-50-stran-s-luchshimi-programmistami/](https://itc.ua/news/reyting-hackerrank-ukraina-zanyala-11-mesto-v-top-50-stran-s-luchshimi-programmistami/)
 
 ### [IT in Ukraine] Salaries
 
@@ -16,37 +18,35 @@
 
 ### [IT in Ukraine] Companies
 
-- [ ]  🎥🇷🇺Symphony solutions [https://www.youtube.com/watch?v=YhFzF6C_8rs](https://www.youtube.com/watch?v=YhFzF6C_8rs)
-- [ ]  🎥🇷🇺Intellias [https://www.youtube.com/watch?v=u1R6bKLVqwY](https://www.youtube.com/watch?v=u1R6bKLVqwY)
-- [ ]  🌆EPAM systems [https://jobs.dou.ua/companies/epam-systems/photos](https://jobs.dou.ua/companies/epam-systems/photos)
-- [ ]  🌆Softserve [https://jobs.dou.ua/companies/softserve/photos](https://jobs.dou.ua/companies/softserve/photos)
-- [ ]  🌆Ciklum [https://jobs.dou.ua/companies/ciklum/photos/](https://jobs.dou.ua/companies/ciklum/photos/)
-- [ ]  🌆Ubisoft [https://jobs.dou.ua/companies/ubisoft/photos](https://jobs.dou.ua/companies/ubisoft/photos)
-- [ ]  🌆Luxoft [https://jobs.dou.ua/companies/luxoft/photos](https://jobs.dou.ua/companies/luxoft/photos)
-- [ ]  🌆Svitla [https://jobs.dou.ua/companies/svitla-systems-inc/photos](https://jobs.dou.ua/companies/svitla-systems-inc/photos)
+- 🎥🇷🇺Symphony solutions [https://www.youtube.com/watch?v=YhFzF6C_8rs](https://www.youtube.com/watch?v=YhFzF6C_8rs)
+- 🎥🇷🇺Intellias [https://www.youtube.com/watch?v=u1R6bKLVqwY](https://www.youtube.com/watch?v=u1R6bKLVqwY)
+- 🌆EPAM systems [https://jobs.dou.ua/companies/epam-systems/photos](https://jobs.dou.ua/companies/epam-systems/photos)
+- 🌆Softserve [https://jobs.dou.ua/companies/softserve/photos](https://jobs.dou.ua/companies/softserve/photos)
+- 🌆Ciklum [https://jobs.dou.ua/companies/ciklum/photos/](https://jobs.dou.ua/companies/ciklum/photos/)
+- 🌆Ubisoft [https://jobs.dou.ua/companies/ubisoft/photos](https://jobs.dou.ua/companies/ubisoft/photos)
+- 🌆Luxoft [https://jobs.dou.ua/companies/luxoft/photos](https://jobs.dou.ua/companies/luxoft/photos)
+- 🌆Svitla [https://jobs.dou.ua/companies/svitla-systems-inc/photos](https://jobs.dou.ua/companies/svitla-systems-inc/photos)
 
 ### About IT
 
 Всі ті речі, котрі згадуються у відео є у посиланнях нижче
 
-- [ ]  🎥🇷🇺 [https://www.youtube.com/watch?v=DjAsTQqofQo&feature=emb_logo](https://www.youtube.com/watch?v=DjAsTQqofQo&feature=emb_logo)
-- [ ]  🎥🇷🇺 [https://www.youtube.com/watch?v=Hxu01dbN_44](https://www.youtube.com/watch?v=Hxu01dbN_44)
-- [ ]  🎥🇷🇺[https://youtu.be/WGIzvVwUfYs](https://youtu.be/WGIzvVwUfYs)
-- [ ]  🎥🇷🇺[https://youtu.be/-FZg0C84i-c](https://youtu.be/-FZg0C84i-c)
-- [ ]  🎥🇺🇸 [https://www.youtube.com/watch?v=KJkknlnA1rU](https://www.youtube.com/watch?v=KJkknlnA1rU)
-- [ ]  🎥🇺🇸 [https://www.youtube.com/watch?v=2WB6RcY0MPc](https://www.youtube.com/watch?v=2WB6RcY0MPc)
+- 🎥🇷🇺 [https://www.youtube.com/watch?v=DjAsTQqofQo&feature=emb_logo](https://www.youtube.com/watch?v=DjAsTQqofQo&feature=emb_logo)
+- 🎥🇷🇺 [https://www.youtube.com/watch?v=Hxu01dbN_44](https://www.youtube.com/watch?v=Hxu01dbN_44)
+- 🎥🇷🇺[https://youtu.be/WGIzvVwUfYs](https://youtu.be/WGIzvVwUfYs)
+- 🎥🇷🇺[https://youtu.be/-FZg0C84i-c](https://youtu.be/-FZg0C84i-c)
+- 🎥🇺🇸 [https://www.youtube.com/watch?v=KJkknlnA1rU](https://www.youtube.com/watch?v=KJkknlnA1rU)
+- 🎥🇺🇸 [https://www.youtube.com/watch?v=2WB6RcY0MPc](https://www.youtube.com/watch?v=2WB6RcY0MPc)
 
 ### Future of the technologies
 
-- [ ]  [https://www.youtube.com/watch?v=BaDz12Yt0rw](https://www.youtube.com/watch?v=BaDz12Yt0rw)
-- [ ]  [https://www.youtube.com/watch?v=ttGUiwfTYvg&feature=emb_logo](https://www.youtube.com/watch?v=ttGUiwfTYvg&feature=emb_logo)
-- [ ]  [https://www.youtube.com/watch?v=Ia3P-_RHVWQ&feature=emb_logo](https://www.youtube.com/watch?v=Ia3P-_RHVWQ&feature=emb_logo)
-- [ ]  [https://youtu.be/7Jg8R8Vx5ac](https://youtu.be/7Jg8R8Vx5ac)
-- [ ]  [https://youtu.be/3LQR93ooFc0](https://youtu.be/3LQR93ooFc0)
+- [https://www.youtube.com/watch?v=BaDz12Yt0rw](https://www.youtube.com/watch?v=BaDz12Yt0rw)
+- [https://www.youtube.com/watch?v=ttGUiwfTYvg&feature=emb_logo](https://www.youtube.com/watch?v=ttGUiwfTYvg&feature=emb_logo)
+- [https://www.youtube.com/watch?v=Ia3P-_RHVWQ&feature=emb_logo](https://www.youtube.com/watch?v=Ia3P-_RHVWQ&feature=emb_logo)
+- [https://youtu.be/7Jg8R8Vx5ac](https://youtu.be/7Jg8R8Vx5ac)
+- [https://youtu.be/3LQR93ooFc0](https://youtu.be/3LQR93ooF### IT jobs
 
-### IT jobs
-
-- [ ]  [https://www.profguide.io/professions/category/it/](https://www.profguide.io/professions/category/it/)
+- [https://www.profguide.io/professions/category/it/](https://www.profguide.io/professions/category/it/)
 
 ### Startups
 
