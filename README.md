@@ -4,7 +4,7 @@
 ## Table of contents
 
 - [Motivation](#motivation)
-  - - [[IT in Ukraine] Intro](#[IT in Ukraine] Intro)
+  - [[IT in Ukraine] Intro](#[-it-in-ukraine-]-intro)
 
 ## Motivation
 
