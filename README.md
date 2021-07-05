@@ -8,7 +8,7 @@
 
 ## Motivation
 
-### [IT in Ukraine] Intro
+### [IT in Ukraine] Intro (#intro)
 
 -  [EN] [https://www.youtube.com/watch?v=7WnwVAz-Zic](https://www.youtube.com/watch?v=7WnwVAz-Zic)
 -  [https://itc.ua/news/reyting-hackerrank-ukraina-zanyala-11-mesto-v-top-50-stran-s-luchshimi-programmistami/](https://itc.ua/news/reyting-hackerrank-ukraina-zanyala-11-mesto-v-top-50-stran-s-luchshimi-programmistami/)
