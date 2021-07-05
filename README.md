@@ -1,9 +1,9 @@
 # Software engineering (from 0 to 1)
 
 
-## Navigation
+## Table of contents
 
-- [Motivation](Motivation)
+- [Motivation](#motivation)
 
 ## Motivation
 
