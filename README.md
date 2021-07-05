@@ -3,7 +3,7 @@
 
 ## Table of contents
 
-{:toc}
+* TOC {:toc}
 
 ## Motivation
 
