@@ -3,7 +3,7 @@
 
 ## Table of contents
 
-[TOC]
+[gh-md-toc]
 
 ## Motivation
 
