@@ -206,13 +206,13 @@
 
 
 
-# Computer science
+## Computer science
 
 - [ ]  [https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmab](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi)i
 
 
 
-## Networks
+### Networks
 
 - [ ]  [https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1)
 - [ ]  [https://youtu.be/Z-a7MNStFQs](https://youtu.be/Z-a7MNStFQs)
@@ -220,35 +220,35 @@
 
 
 
-## Programming languages
+### Programming languages
 
 - [ ]  [https://ru.wikipedia.org/wiki/Язык_программирования?wprov=sfti1](https://ru.wikipedia.org/wiki/%D0%AF%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F?wprov=sfti1)
 - [ ]  [https://youtu.be/Hozqp7P6cJs](https://youtu.be/Hozqp7P6cJs)
 
 
 
-## Databases
+### Databases
 
 - [ ]  [https://www.youtube.com/playlist?list=PL0lO_mIqDDFVnLvR39VpEtphQ8bPJ-xR9](https://www.youtube.com/playlist?list=PL0lO_mIqDDFVnLvR39VpEtphQ8bPJ-xR9)
 - [ ]  [https://youtu.be/l8WIZUVio6g](https://youtu.be/l8WIZUVio6g)
 
 
 
-## System design
+### System design
 
 - [ ]  [https://www.youtube.com/playlist?list=PLPPIc-4tm3YTw3FUu75jsW4QgrXopfXhX](https://www.youtube.com/playlist?list=PLPPIc-4tm3YTw3FUu75jsW4QgrXopfXhX)
 - [ ]  [https://youtu.be/xxqroxbiKVA](https://youtu.be/xxqroxbiKVA)
 
 
 
-## Software development methodologies
+### Software development methodologies
 
 - [ ]  [https://youtu.be/qyhT2Cda5ek](https://youtu.be/qyhT2Cda5ek)
 - [ ]  [https://youtu.be/7S1ndRRht6M](https://youtu.be/7S1ndRRht6M)
 
 
 
-## Software architectures
+### Software architectures
 
 - [ ]  [https://youtu.be/9mZmc6a0tmM](https://youtu.be/9mZmc6a0tmM)
 - [ ]  [https://youtu.be/7WT_Rl6m2DU](https://youtu.be/7WT_Rl6m2DU)
@@ -256,7 +256,7 @@
 
 
 
-## UI/UX design
+### UI/UX design
 
 - [ ]  [https://youtu.be/XebwPiLjVQ8](https://youtu.be/XebwPiLjVQ8)
 - [ ]  [https://dribbble.com/](https://dribbble.com/)
@@ -271,7 +271,7 @@
 
 
 
-## Web browser
+### Web browser
 
 - [ ]  [https://youtu.be/mzJ6J948do8](https://youtu.be/mzJ6J948do8)
 - [ ]  [https://youtu.be/JWidpKv2LvY](https://youtu.be/JWidpKv2LvY)
@@ -279,13 +279,13 @@
 
 
 
-## Environment for programming
+### Environment for programming
 
 - [ ]  [https://youtu.be/nxCLXMBl4e4](https://youtu.be/nxCLXMBl4e4)
 
 
 
-## HTML/CSS
+### HTML/CSS
 
 - [ ]  [https://www.youtube.com/playlist?list=PLM6XATa8CAG4F9nAIYNS5oAiPotxwLFIr](https://www.youtube.com/playlist?list=PLM6XATa8CAG4F9nAIYNS5oAiPotxwLFIr)
 - [ ]  [https://youtu.be/u1b1s2Wj24s](https://youtu.be/u1b1s2Wj24s)
@@ -295,7 +295,7 @@
 
 
 
-## Version control systems
+### Version control systems
 
 - [ ]  [https://youtu.be/8JJ101D3knE](https://youtu.be/8JJ101D3knE)
 - [ ]  [https://www.youtube.com/playlist?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR](https://www.youtube.com/playlist?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR)
@@ -303,7 +303,7 @@
 
 
 
-## Javascript/Typescript
+### Javascript/Typescript
 
 - [ ]  [https://www.youtube.com/playlist?list=PL0lO_mIqDDFUGX9k45bZFuz1ixTvUhd7b](https://www.youtube.com/playlist?list=PL0lO_mIqDDFUGX9k45bZFuz1ixTvUhd7b)
 - [ ]  [https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
@@ -315,7 +315,7 @@
 
 
 
-## Algorithms, data structures and patterns
+### Algorithms, data structures and patterns
 
 - [ ]  [https://youtu.be/YJVj4XNASDk](https://youtu.be/YJVj4XNASDk)
 - [ ]  [https://www.youtube.com/playlist?list=PLrCZzMib1e9pDxHYzmEzMmnMMUK-dz0_7](https://www.youtube.com/playlist?list=PLrCZzMib1e9pDxHYzmEzMmnMMUK-dz0_7)
@@ -323,14 +323,14 @@
 
 
 
-## NodeJS
+### NodeJS
 
 - [ ]  [https://www.youtube.com/playlist?list=PL0lO_mIqDDFX0qH9w5YQIDV6Wxy0oawet](https://www.youtube.com/playlist?list=PL0lO_mIqDDFX0qH9w5YQIDV6Wxy0oawet)
 - [ ]  [https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
 
 
 
-## Software testing
+### Software testing
 
 - [ ]  [https://youtu.be/goaZTAzsLMk](https://youtu.be/goaZTAzsLMk)
 - [ ]  [https://www.youtube.com/playlist?list=PLRs8EELOYKc7DYIQixlV1s4EH5SR3TdNB](https://www.youtube.com/playlist?list=PLRs8EELOYKc7DYIQixlV1s4EH5SR3TdNB)
@@ -338,7 +338,7 @@
 
 
 
-## CRM/ERP/CMS
+### CRM/ERP/CMS
 
 - [ ]  [https://youtu.be/YmRz8j66m7I](https://youtu.be/YmRz8j66m7I)
 - [ ]  [https://youtu.be/6qys-562kp4](https://youtu.be/6qys-562kp4)
@@ -348,7 +348,7 @@
 
 
 
-## No code/low code platforms
+### No code/low code platforms
 
 - [ ]  [https://youtu.be/nOPaOWcAO38](https://youtu.be/nOPaOWcAO38)
 - [ ]  [https://youtu.be/neC-aclqRoQ](https://youtu.be/neC-aclqRoQ)
@@ -356,7 +356,7 @@
 
 
 
-## Machine learning/AI
+### Machine learning/AI
 
 - [ ]  [https://youtu.be/EoYfa6mYOG4](https://youtu.be/EoYfa6mYOG4)
 - [ ]  [https://youtu.be/iIOKHKwi2TE](https://youtu.be/iIOKHKwi2TE)
@@ -364,27 +364,27 @@
 
 
 
-## Data analysis
+### Data analysis
 
 - [ ]  [https://youtu.be/r-uOLxNrNk8](https://youtu.be/r-uOLxNrNk8)
 - [ ]  [https://youtu.be/zqcIjDLxZIM](https://youtu.be/zqcIjDLxZIM)
 
 
 
-## Python
+### Python
 
 - [ ]  [https://www.youtube.com/playlist?list=PL0lO_mIqDDFXgfuxOEDTCwsWmKezOaDTu](https://www.youtube.com/playlist?list=PL0lO_mIqDDFXgfuxOEDTCwsWmKezOaDTu)
 - [ ]  [https://youtu.be/_uQrJ0TkZlc](https://youtu.be/_uQrJ0TkZlc)
 
 
 
-## SEO optimization
+### SEO optimization
 
 - [ ]  [https://www.youtube.com/playlist?list=RDCMUCx7J37QuXsGL7QG6SMIpqKg&feature=share&playnext=1](https://www.youtube.com/playlist?list=RDCMUCx7J37QuXsGL7QG6SMIpqKg&feature=share&playnext=1)
 
 
 
-## Marketing
+### Marketing
 
 - [ ]  [https://youtu.be/-jB6h45RC6E](https://youtu.be/-jB6h45RC6E)
 - [ ]  [https://youtu.be/MwS4_fFQpg4](https://youtu.be/MwS4_fFQpg4)
@@ -392,32 +392,32 @@
 
 
 
-## Cryptography
+### Cryptography
 
 - [ ]  [https://www.youtube.com/playlist?list=PLd-kTafWJCJPBvG4CPNiraCuHX7vOKIEV](https://www.youtube.com/playlist?list=PLd-kTafWJCJPBvG4CPNiraCuHX7vOKIEV)
 
 
 
-## Cryptomoney
+### Cryptomoney
 
 - [ ]  [https://youtu.be/IZcqKuhWhH8](https://youtu.be/IZcqKuhWhH8)
 
 
 
-## Security
+### Security
 
 - [ ]  [https://youtu.be/qjrkV4RjgIU](https://youtu.be/qjrkV4RjgIU)
 - [ ]  [https://youtu.be/X4eRbHgRawI](https://youtu.be/X4eRbHgRawI)
 
 
 
-## Servers
+### Servers
 
 - [ ]  [https://www.youtube.com/playlist?list=PL7hyQeCP1V6SLJOBVgh5gVnHwBFyEqF6a](https://www.youtube.com/playlist?list=PL7hyQeCP1V6SLJOBVgh5gVnHwBFyEqF6a)
 
 
 
-## Cloud services
+### Cloud services
 
 - [ ]  [https://www.youtube.com/playlist?list=PLl-K7zZEsYLmnJ_FpMOZgyg6XcIGBu2OX](https://www.youtube.com/playlist?list=PLl-K7zZEsYLmnJ_FpMOZgyg6XcIGBu2OX)
 - [ ]  [https://www.youtube.com/playlist?list=PL4cUxeGkcC9jUPIes_B8vRjn1_GaplOPQ](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jUPIes_B8vRjn1_GaplOPQ)
@@ -428,7 +428,7 @@
 
 
 
-## Business development
+### Business development
 
 - [ ]  [https://youtu.be/hU6p1AWBiw0](https://youtu.be/hU6p1AWBiw0)
 - [ ]  [https://youtu.be/LLerCc7MOQo](https://youtu.be/LLerCc7MOQo)
@@ -437,7 +437,7 @@
 
 
 
-## Communities
+### Communities
 
 - [ ]  [https://t.me/reactkyiv](https://t.me/reactkyiv)
 - [ ]  [https://t.me/react_js](https://t.me/react_js)
@@ -447,21 +447,21 @@
 
 
 
-## Blogs
+### Blogs
 
 - [ ]  [https://habr.com/ru/all/](https://habr.com/ru/all/)
 - [ ]  [https://medium.com/](https://medium.com/)
 
 
 
-## Conferences
+### Conferences
 
 - [ ]  [https://t.me/frontend_conferences_ru](https://t.me/frontend_conferences_ru)
 - [ ]  [https://t.me/frontend_conferences_en](https://t.me/frontend_conferences_en)
 
 
 
-## Vlogs
+### Vlogs
 
 🎥🇷🇺[https://www.youtube.com/c/ITBEARD](https://www.youtube.com/c/ITBEARD) 
 
@@ -469,7 +469,7 @@
 
 
 
-## Books
+### Books
 
 - [ ]  [http://kharchuk.ru/JavaScript.pdf](http://kharchuk.ru/JavaScript.pdf)
 - [ ]  [http://sd.blackball.lv/DownloadFile.ashx?file=17450](http://sd.blackball.lv/DownloadFile.ashx?file=17450)
@@ -477,45 +477,45 @@
 
 
 
-## Interview questions
+### Interview questions
 
 - [ ]  [https://github.com/lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions)
 
 
 
-## Project ideas
+### Project ideas
 
 - [ ]  [https://proglib.io/p/interesting-idea](https://proglib.io/p/interesting-idea)
 
 
 
-## Coding games
+### Coding games
 
 - [ ]  [https://www.codingame.com/](https://www.codingame.com/)
 - [ ]  [https://www.codewars.com/](https://www.codewars.com/)
 
 
 
-## Certifications
+### Certifications
 
 - [ ]  [https://www.indeed.com/career-advice/career-development/programming-certifications](https://www.indeed.com/career-advice/career-development/programming-certifications)
 
 
 
-## Knowledge tests
+### Knowledge tests
 
 - [ ]  [https://www.tutorialspoint.com/questions_and_answers](https://www.tutorialspoint.com/questions_and_answers)
 
 
 
-## Professional social networks
+### Professional social networks
 
 - [ ]  [https://www.linkedin.com](https://www.linkedin.com)
 - [ ]  [https://youtu.be/vNqh0Ii0sBY](https://youtu.be/vNqh0Ii0sBY)
 
 
 
-## Freelance platforms
+### Freelance platforms
 
 - [ ]  [https://www.fiverr.com/](https://www.fiverr.com/)
 - [ ]  [https://www.toptal.com/](https://www.toptal.com/)
@@ -523,12 +523,12 @@
 
 
 
-## Soft skills
+### Soft skills
 
 - [ ]  [https://youtu.be/J72VuencNYw](https://youtu.be/J72VuencNYw)
 
 
 
-## Apps
+### Apps
 
 [https://algoexperrt.io](https://algoexperrt.io) - interview coding questions
