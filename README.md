@@ -133,8 +133,6 @@
 
 ### [IT in Ukraine] Companies
 
-- 🎥🇷🇺Symphony solutions [https://www.youtube.com/watch?v=YhFzF6C_8rs](https://www.youtube.com/watch?v=YhFzF6C_8rs)
-- 🎥🇷🇺Intellias [https://www.youtube.com/watch?v=u1R6bKLVqwY](https://www.youtube.com/watch?v=u1R6bKLVqwY)
 - 🌆EPAM systems [https://jobs.dou.ua/companies/epam-systems/photos](https://jobs.dou.ua/companies/epam-systems/photos)
 - 🌆Softserve [https://jobs.dou.ua/companies/softserve/photos](https://jobs.dou.ua/companies/softserve/photos)
 - 🌆Ciklum [https://jobs.dou.ua/companies/ciklum/photos/](https://jobs.dou.ua/companies/ciklum/photos/)
