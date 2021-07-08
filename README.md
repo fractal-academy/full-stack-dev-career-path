@@ -209,9 +209,7 @@
 
 -   🎥🇷🇺 [https://youtu.be/Pe2rJjXIKbw](https://youtu.be/Pe2rJjXIKbw)
 -   🎥🇷🇺 [https://www.youtube.com/playlist?list=PLo6puixMwuSNCt4bd99UheEjaS4EudoGJ](https://www.youtube.com/playlist?list=PLo6puixMwuSNCt4bd99UheEjaS4EudoGJ)
--   [https://www.khanacademy.org/](https://www.khanacademy.org/) на уровень выше
--   Дополнить конкретными темами
--   Проверка знаний/задания
+-   [https://www.khanacademy.org/](https://www.khanacademy.org/)
 
 
 
