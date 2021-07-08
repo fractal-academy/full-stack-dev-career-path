@@ -152,7 +152,6 @@
 - [https://www.youtube.com/watch?v=Ia3P-_RHVWQ&feature=emb_logo](https://www.youtube.com/watch?v=Ia3P-_RHVWQ&feature=emb_logo)
 - [https://youtu.be/7Jg8R8Vx5ac](https://youtu.be/7Jg8R8Vx5ac)
 - [https://youtu.be/3LQR93ooFc0](https://youtu.be/3LQR93ooF### IT jobs
-
 - [https://www.profguide.io/professions/category/it/](https://www.profguide.io/professions/category/it/)
 
 ### Startups
